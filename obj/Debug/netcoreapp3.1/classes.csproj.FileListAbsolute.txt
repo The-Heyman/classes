@@ -1,0 +1,12 @@
+/Users/heyman/classes/obj/Debug/netcoreapp3.1/classes.csprojAssemblyReference.cache
+/Users/heyman/classes/obj/Debug/netcoreapp3.1/classes.AssemblyInfoInputs.cache
+/Users/heyman/classes/obj/Debug/netcoreapp3.1/classes.AssemblyInfo.cs
+/Users/heyman/classes/obj/Debug/netcoreapp3.1/classes.csproj.CoreCompileInputs.cache
+/Users/heyman/classes/bin/Debug/netcoreapp3.1/classes.deps.json
+/Users/heyman/classes/bin/Debug/netcoreapp3.1/classes.runtimeconfig.json
+/Users/heyman/classes/bin/Debug/netcoreapp3.1/classes.runtimeconfig.dev.json
+/Users/heyman/classes/bin/Debug/netcoreapp3.1/classes.dll
+/Users/heyman/classes/bin/Debug/netcoreapp3.1/classes.pdb
+/Users/heyman/classes/obj/Debug/netcoreapp3.1/classes.dll
+/Users/heyman/classes/obj/Debug/netcoreapp3.1/classes.pdb
+/Users/heyman/classes/obj/Debug/netcoreapp3.1/classes.genruntimeconfig.cache
